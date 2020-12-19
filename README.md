@@ -20,10 +20,10 @@ The desired outcome is to create a web portal so that pharmacy customers can log
 
 ## MVP
 - Coordination with Liberty Rx Software
-- Patient-specific info page; leverages patient registration/login system
-- Clinician specific page with access to list of their patients
-- Real time updates to prescription status
+- Patient-specific info page; leverages patient registration/login system currently in use
 - Customer navigation from already established registration tool
+- Real time updates to prescription status
+- Clinician specific page with access to list of their specific patients and prescription status
 
 ## Post-MVP
-- Other deliverables that can be completed in Q1
+- Other deliverables that reasonably can be completed by the end of Q1 2021
