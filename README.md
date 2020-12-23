@@ -10,6 +10,10 @@ Need more info from Mandell's
 
 Depends on Current System Diagram
 
+## Preliminary Diagram (A very generalized overview)
+
+[General Diagram](./Diagram.pdf)
+
 ## Overview
 
 The desired outcome is to create a web portal so that pharmacy customers can log in and get info about their personal prescriptions, doctors and nurses can retrieve info about their patients (in compliance with HIPAA requirements)
